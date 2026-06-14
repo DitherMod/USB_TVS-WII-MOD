@@ -2,7 +2,7 @@
 # Adaptador de Módulo con Protección USB
 
 ## Descripción General
-## Descripción General
+
 Diseño de un adaptador USB enfocado en la reconversión de un módulo Bluetooth reciclado para su operación como dispositivo HID estándar en PC. El circuito actúa como interfaz física y etapa de protección: implementa matrices de diodos TVS para aislar el hardware contra (ESD) y sobretensiones transitorias, asegurando la integridad de las líneas de datos.
 
 ## Especificaciones Técnicas y Topología
