@@ -26,7 +26,7 @@ Diseño de un adaptador USB enfocado en la reconversión de un módulo Bluetooth
 ![Captura del Adaptador](Capturas/render_3d.png)
 
 
-## Licencia
+<--## Licencia
 Este proyecto es un aporte para la comunidad y se distribuye bajo la licencia [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
 
-Puedes usar, modificar y compartir este diseño libremente para tus proyectos personales, pero **no** está permitido su uso ni distribución con fines comerciales o de lucro. 
+Puedes usar, modificar y compartir este diseño libremente para tus proyectos personales, pero **no** está permitido su uso ni distribución con fines comerciales o de lucro.--> 
