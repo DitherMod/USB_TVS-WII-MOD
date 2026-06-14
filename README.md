@@ -1,6 +1,10 @@
 # USB_TVS-WII-MOD
 # Adaptador de Módulo con Protección USB
 
+> [!NOTE]
+> **Estado del Proyecto: Trabajo en Progreso (WIP)**
+> La estructura y especificaciones están definidas. Los esquemáticos, ruteos de PCB y archivos (Gerbers) serán liberados y subidos a las carpetas correspondientes una vez que el diseño esté finalizado y validado.
+
 ## Descripción General
 
 Diseño de un adaptador USB enfocado en la reconversión de un módulo Bluetooth reciclado para su operación como dispositivo HID estándar en PC. El circuito actúa como interfaz física y etapa de protección: implementa matrices de diodos TVS para aislar el hardware contra (ESD) y sobretensiones transitorias, asegurando la integridad de las líneas de datos.
@@ -26,7 +30,8 @@ Diseño de un adaptador USB enfocado en la reconversión de un módulo Bluetooth
 ![Captura del Adaptador](Capturas/render_3d.png)
 
 
-<--## Licencia
+<!--
 Este proyecto es un aporte para la comunidad y se distribuye bajo la licencia [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
 
-Puedes usar, modificar y compartir este diseño libremente para tus proyectos personales, pero **no** está permitido su uso ni distribución con fines comerciales o de lucro.--> 
+Puedes usar, modificar y compartir este diseño libremente para tus proyectos personales, pero **no** está permitido su uso ni distribución con fines comerciales o de lucro.
+--> 
