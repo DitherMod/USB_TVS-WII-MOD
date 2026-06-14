@@ -21,9 +21,9 @@ Diseño de un adaptador USB enfocado en la reconversión de un módulo Bluetooth
 * **Gestión de Tierras y Blindaje (Shield):** Diseño enfocado en evitar bucles de masa, con un plano de tierra y tratamiento físico del shield para derivar correctamente las descargas externas sin afectar el circuito lógico.
 
 ## Estructura del Repositorio
-* `/Hardware`:
-* `/Gerbers`: 
-* `/Docs`: 
+* `/Hardware`: Archivos fuente del diseño EDA (KiCad).
+* `/Gerbers`: Archivos comprimidos. 
+* `/Docs`: Esquemáticos en formato PDF y datasheets técnicos.
 * `BOM.csv`: Lista de materiales con designadores, encapsulados y valores.
 
 
