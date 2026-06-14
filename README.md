@@ -21,4 +21,6 @@ Diseño de un adaptador USB enfocado en la reconversión de un módulo Bluetooth
 * `/Gerbers`: 
 * `/Docs`: 
 * `BOM.csv`: Lista de materiales con designadores, encapsulados y valores.
+
+
 ![Captura del Adaptador](Capturas/render_3d.png)
